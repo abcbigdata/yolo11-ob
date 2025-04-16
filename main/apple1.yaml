@@ -1,0 +1,7 @@
+path: /root/PycharmProjects/PythonProject/main/datasets/apple1 # dataset root directory
+train: images/train # training images (relative to 'path')
+val: images/val # validation images (relative to 'path')
+test: # optional test images
+names:
+    0: Rear_Camera
+    1: AppleLogo
